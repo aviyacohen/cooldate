@@ -1,2 +1,2 @@
 # cooldate
-A widget for picking dates in webforms.
+A jQuery library widget for picking dates in webforms.
